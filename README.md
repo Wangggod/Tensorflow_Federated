@@ -1,4 +1,5 @@
 > **NOTE:**  这里使用经典的MINST训练来介绍Tensorflow Federated Learning(FL)的API。
+2020.3.9 更新至colab在线版
 
 ---
 ### 一、准备工作：
